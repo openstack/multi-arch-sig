@@ -11,9 +11,13 @@ the SIG itself, see the SIG's `etherpad
 Contributions to this documentation are warmly encouraged; please see
 :doc:`the guide to contributing <meta/CONTRIBUTING>`.
 
+Reference Documents
+===================
 
 .. toctree::
    :maxdepth: 2
+
+   what-is-multiarch
 
 Links for Multi-Arch SIG
 ==========================
